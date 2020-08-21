@@ -1,6 +1,14 @@
 ### Hi, I'm Florian ! 🧑🏻‍💻
 
-
+<a href="https://github.com/FlorianTrecul">
+  <img align="left" alt="Florian's GitHub" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.linkedin.com/in/floriantrecul">
+  <img align="left" alt="Florian's Linkedin" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/FlorianTrecul">
+  <img align="left" alt="Florian's Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
 <!--
 **FlorianTrecul/FlorianTrecul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
