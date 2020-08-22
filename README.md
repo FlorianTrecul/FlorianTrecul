@@ -15,6 +15,12 @@
 
 Hi, I'm Florian Trecul, an Android Mobile developer from France 🇫🇷 , I'm currently looking for a new challenge as an Android Mobile developer specialized in Kotlin 💼 . In addition to programming, I like to cook 👨🏻‍🍳 and do crossfit 🏋🏻‍♂️.
 
+**Talking about Personal Stuffs:**
+- 🧑🏻‍💻 I'm currently working on the Peristock project under Android in Kotlin which is already available on [iOS](https://apps.apple.com/fr/app/peristock/id1409389244) by [@MehdiChennoufi](https://github.com/MehdiChennoufi);
+- 🌱 I am currently in the process of continuously improving Android and Kotlin and in the future I would like to look into Flutter;
+- 👯 I’m looking to collaborate with an innovative company for a new challenge as an Android Mobile developer 🤝;
+- 📫 How to reach me: trecul.florian@gmail.com;
+
 <!--
 **FlorianTrecul/FlorianTrecul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
