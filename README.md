@@ -19,8 +19,8 @@ Hi, I am Florian Trecul, an Android Mobile developer from France 🇫🇷 , I am
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="280px" /> -->
 
 **Talking about Personal Stuffs:**
-- 🧑🏻‍💻 I am currently working on an Android project in Kotlin which is an application to fight against food waste. To Soon 🔜
-- 🌱 I am currently in the process of continuously improving Android and Kotlin and in the future I would like to look into Flutter;
+- 🧑🏻‍💻 I am currently working on several Android projects in Kotlin and with Jetpack Compose. To Soon 🔜
+- 🌱 I'm currently in the process of continuously improving Android and Kotlin, and in the future I'd like to look into Flutter and iOS Native;
 - 👯 I am looking to collaborate with an innovative company for a new challenge as an Android Mobile developer 🤝;
 - 📫 How to reach me: trecul.florian@gmail.com;
 
